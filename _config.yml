@@ -1,8 +1,13 @@
+# Loại trừ tất cả các thư mục không liên quan đến trang web tĩnh
 exclude:
   - node_modules
-  - vendor
+  - "**/node_modules"
+  - backend
+  - frontend/node_modules
   - .github
+  - .sass-cache
   - Gemfile
   - Gemfile.lock
   - package.json
   - package-lock.json
+  - vendor
