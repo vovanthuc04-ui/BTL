@@ -1,6 +1,6 @@
 // API Configuration
 const API_CONFIG = {
-    BASE_URL: 'https://btl-3.onrender.com/api',
+    BASE_URL: 'http://localhost:5000/api',
     ENDPOINTS: {
         // Auth
         LOGIN: '/auth/login',
