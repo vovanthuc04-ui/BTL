@@ -307,7 +307,7 @@ const seedData = async () => {
                 originalPrice: null,
                 category: 'women',
                 badge: 'new',
-                image: 'https://images.unsplash.com/photo-1572878787852-81c297ec60d7?w=500&h=500&fit=crop',
+                image: 'https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-luvl01a4fh1ue2',
                 stock: 35,
                 sold: 12,
                 rating: 4.7,
