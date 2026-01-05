@@ -1,7 +1,7 @@
 {
-  "name": "elite-fashion-backend",
+  "name": "qhbd-fashion-backend",
   "version": "1.0.0",
-  "description": "Backend API cho ÉLITE Fashion E-commerce",
+  "description": "Backend API cho QHBD Fashion E-commerce",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
