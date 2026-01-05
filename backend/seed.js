@@ -405,7 +405,6 @@ const seedData = async () => {
                 isActive: true
             },
 
-            // ==================== PHỤ KIỆN (14 sản phẩm) ====================
             {
                 name: 'Túi Xách Da Thật Cao Cấp',
                 description: 'Túi xách da bò thật 100%, thủ công tinh xảo, bền đẹp theo năm tháng. Nhiều ngăn tiện lợi.',
